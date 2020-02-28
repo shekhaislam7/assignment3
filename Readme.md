@@ -6,5 +6,4 @@ Best git hub Tutorial you liked / used : <mention the URL>
 
 Tool used :  (like Git CLI, or the GUI client or something)
 
-Some comments on your experience.
-
+I had great experience learning how to use GitHub.
