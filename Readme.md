@@ -1,9 +1,2 @@
 Assignment 3
 
-Learning how to use git hub
-
-Best git hub Tutorial you liked / used : <mention the URL>
-
-Tool used :  (like Git CLI, or the GUI client or something)
-
-I had great experience learning how to use GitHub.
